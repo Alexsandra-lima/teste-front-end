@@ -26,11 +26,11 @@ body{
 }
 .logo {
     float: left;
-    padding: 5px;
+    padding: 6px;
     margin-bottom: 1px;
-    width: 56px;
+    width: 54px;
     margin-top: 0px;
-    margin-right: -2px;
+    margin-right: 20px;
 }
 .nav-link:hover {
     color:white;
