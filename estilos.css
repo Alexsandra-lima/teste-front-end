@@ -14,7 +14,7 @@ body{
 }
 .formulario{
 	font-weight: bold;
-	margin-left: 27%;
+	margin-left: 18%;
 	font-size: 24px;
 	height: 84px;
 	margin-top: 50px;
@@ -56,4 +56,23 @@ button{
 }
  table td{
 	margin-left: 20%;
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    margin-left: -136px;
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
 }
