@@ -521,7 +521,7 @@ list-style-type: none;
 margin-left: 0;
 }
 ul, ol, dl {
-    font-size: 1rem;
+    font-size: 19px;
     line-height: 1.6;
     margin-bottom: 1.25rem;
     list-style-position: outside;
