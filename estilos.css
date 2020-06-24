@@ -19,7 +19,14 @@ body{
 	height: 84px;
 	margin-top: 50px;
 }
-
+.logo {
+    float: left;
+    padding: 6px;
+    margin-bottom: 1px;
+    width: 54px;
+    margin-top: 0px;
+    margin-right: 131px;
+}
 input{
 	font-size: 19px;
 	width: 226px;
@@ -61,11 +68,11 @@ button{
     display: inline-block;
     padding-top: .3125rem;
     padding-bottom: .3125rem;
-    margin-right: 1rem;
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
-    margin-left: -136px;
+    margin-left: 0px;
+    margin-right: 1rem;
 }
 .navbar-brand {
     display: inline-block;
