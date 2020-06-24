@@ -14,7 +14,7 @@ body{
 }
 .formulario{
 	font-weight: bold;
-	margin-left: 18%;
+	margin-left: 20%;
 	font-size: 24px;
 	height: 84px;
 	margin-top: 50px;
@@ -36,13 +36,14 @@ input{
 	}
 .h3 {
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 20px;
     padding-bottom: 1rem;
     border-bottom: 1px solid #ddd;
     color: #888;
     font-weight: 600;
    text-align:  center;
    line-height: 100%;
+   margin-left: -4%;
 }
 button{
 	justify-content: center;
@@ -62,8 +63,17 @@ button{
     font-size: 22px;
 }
  table td{
-	margin-left: 20%;
-}
+    margin-left: 20%;
+    margin: 0;
+    text-align: center;
+
+ }
+    .table thead th {
+        vertical-align: bottom;
+        border-bottom: 2px solid #dee2e6;
+        margin: 0;
+        text-align: center;
+    }
 .navbar-brand {
     display: inline-block;
     padding-top: .3125rem;

@@ -449,6 +449,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     margin-left: 10px;
 }
 
+
 .navbar-brand {
     display: inline-block;
     padding-top: .3125rem;
@@ -475,8 +476,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     text-decoration: none;
 }
 
- 
-a {
+ a {
     color: #008cba;
     text-decoration: none;
     line-height: inherit;
