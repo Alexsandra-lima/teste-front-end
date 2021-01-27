@@ -26,11 +26,11 @@ body{
 }
 .logo {
     float: left;
-    padding: 5px;
+    padding: 6px;
     margin-bottom: 1px;
-    width: 56px;
+    width: 54px;
     margin-top: 0px;
-    margin-right: -2px;
+    margin-right: -5px;
 }
 .nav-link:hover {
     color:white;
@@ -201,7 +201,7 @@ body{
         border-top: none;
         border-right: solid 1px #4e4e4e;
         clear: none;
-        height: 56px;
+        height: 61px;
         width: 0;
     }
     .divider-p{
@@ -246,8 +246,8 @@ body{
 img {
     max-width: 100%;
     height: auto;
-    margin-left: 8%;
-    margin-top:  -1.75em;
+    margin-left: -7%;
+    margin-top: -1.75em;
 }
 .tituloDestaques{
     text-align: center !important;
@@ -294,10 +294,11 @@ strong, b {
     margin-left: -14px;
 }
 .text-center{
+    
     text-align: center;
     justify-content: center;
-    margin-left: 9%;
-    margin-right: -4%;
+    margin-left: -11%;
+    margin-right: 4%;
 }
 
 .text-center strong, b{
@@ -366,8 +367,8 @@ strong, b {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: 141px;
-    margin-left: 141px;
+    margin-right: 121px;
+    margin-left: 121px;
 }
 .card-title{
     color: #063f89;
@@ -430,6 +431,7 @@ hr {
     background-clip: border-box;
     border: #fff !important;
     border-radius: 0.25rem;
+    margin-left: -30%;
 }
 .mtop {
     margin-top: 2rem;
@@ -446,6 +448,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     flex-basis: auto;
     margin-left: 10px;
 }
+
 
 .navbar-brand {
     display: inline-block;
@@ -473,8 +476,7 @@ div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, t
     text-decoration: none;
 }
 
- 
-a {
+ a {
     color: #008cba;
     text-decoration: none;
     line-height: inherit;
@@ -519,7 +521,7 @@ list-style-type: none;
 margin-left: 0;
 }
 ul, ol, dl {
-    font-size: 1rem;
+    font-size: 19px;
     line-height: 1.6;
     margin-bottom: 1.25rem;
     list-style-position: outside;
@@ -639,5 +641,5 @@ footer.full-width .love-reverie {
     margin-bottom: 1%;
     justify-content: center;
     align-content: center;
-    margin-right: -27%;
+    margin-right: -18%;
 }

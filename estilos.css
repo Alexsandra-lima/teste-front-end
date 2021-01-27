@@ -14,12 +14,19 @@ body{
 }
 .formulario{
 	font-weight: bold;
-	margin-left: 27%;
+	margin-left: 20%;
 	font-size: 24px;
 	height: 84px;
 	margin-top: 50px;
 }
-
+.logo {
+    float: left;
+    padding: 6px;
+    margin-bottom: 1px;
+    width: 54px;
+    margin-top: 0px;
+    margin-right: 131px;
+}
 input{
 	font-size: 19px;
 	width: 226px;
@@ -27,15 +34,16 @@ input{
 .bold{
     font-weight: bold;
 	}
-h3 {
+.h3 {
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 20px;
     padding-bottom: 1rem;
     border-bottom: 1px solid #ddd;
     color: #888;
     font-weight: 600;
    text-align:  center;
    line-height: 100%;
+   margin-left: -4%;
 }
 button{
 	justify-content: center;
@@ -48,12 +56,40 @@ button{
 	border-radius: 5%;
 }
 
-table{
+.table{
 	margin-left: 15%;
     margin-top: 2%;
     width: 65%;
     font-size: 22px;
 }
  table td{
-	margin-left: 20%;
+    margin-left: 20%;
+    margin: 0;
+    text-align: center;
+
+ }
+    .table thead th {
+        vertical-align: bottom;
+        border-bottom: 2px solid #dee2e6;
+        margin: 0;
+        text-align: center;
+    }
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    margin-left: 0px;
+    margin-right: 1rem;
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
 }
